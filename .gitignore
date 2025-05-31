@@ -1,0 +1,19 @@
+# PowerShell
+*.ps1.test
+*.psm1.test
+*.psd1.test
+*.ps1xml.test
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
