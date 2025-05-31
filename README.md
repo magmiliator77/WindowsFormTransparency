@@ -102,7 +102,7 @@ Obtiene el valor actual de transparencia del formulario
 
 ## 📝 Licencia
 
-MIT License - ver archivo [LICENSE.md](LICENSE.md)
+MIT License - ver archivo [LICENSE.MD](LICENSE.MD)
 
 
 
